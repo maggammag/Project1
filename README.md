@@ -1,7 +1,7 @@
 
-#**Git Operations<br/>**#
+#**Git Operations**#<br/>
 *1.create an account that is common to all team members<br/>*
-     We created an accountwcich is common to all our team members, named **maggammag** .</br>
+     We created an account wcich is common to all our team members, named **maggammag** .</br>
 *2. Create empty repository in any git remote repository service and add collaborators.*
      In this group,we added a three collaborataters - **Manjima Mohan**, **Anjali R** and **Gouri Vijayan**</br>
 *3. Leader must create the first commit*
