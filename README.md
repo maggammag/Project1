@@ -1,16 +1,16 @@
 
 #**Git Operations**#<br/>
-*1.create an account that is common to all team members<br/>*
+*1.create an account that is common to all team members*<br/>
      We created an account wcich is common to all our team members, named **maggammag** .</br>
-*2. Create empty repository in any git remote repository service and add collaborators.*
+*2. Create empty repository in any git remote repository service and add collaborators.*<br/>
      In this group,we added a three collaborataters - **Manjima Mohan**, **Anjali R** and **Gouri Vijayan**</br>
-*3. Leader must create the first commit*
-     In my team, the team leader created the first commit</br> commit is perform by the command  *- git commit -m "My First Commit (*_*) <3"*
-*4.All members must clone the remote repository*
+*3. Leader must create the first commit*<br/>
+     In my team, the team leader created the first commit</br> commit is perform by the command  *- git commit -m "My First Commit (*_*) <3"* <br/>
+*4.All members must clone the remote repository*<br/>
      After the first commit by, all the team members clone to the remote repository. Pushing a file to the remote repository. But without
      cloneing the git changes to the local repository will raise an error.<br/>
-     clone is perform by the command   *-git clone https://github.com/sirmanjima/Project1.git gitfolder*
-*5.Each member must create a feature brach each and add features to them(any mod)*
+     clone is perform by the command   *-git clone https://github.com/sirmanjima/Project1.git gitfolder*<br/>
+*5.Each member must create a feature brach each and add features to them(any mod)*<br/>
      After cloning the remote repository, all the members in my group created a branch and added files to that branch.<br/>
      New branch is created by the command  *-git checkout -b manjima.<br/>*
      We can view can all the branch by the command  *- git branch*<br/>
